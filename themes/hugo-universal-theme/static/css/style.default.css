@@ -1,7 +1,12 @@
 /* Themed colors */
 :root {
+<<<<<<< HEAD
   --primary-accent: #3585F7;
   --navbar-border-top: #397BE0;
+=======
+  --primary-accent: #38a7bb;
+  --navbar-border-top: #20616d;
+>>>>>>> 86ecd0b (init)
   --button-border: #2a7d8c;
   --link-focus: #267280;
   --form-shadow: rgba(56, 167, 187, 0.6);
@@ -2526,7 +2531,11 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
+<<<<<<< HEAD
   background: #F7F9FB;
+=======
+  background: #555555;
+>>>>>>> 86ecd0b (init)
   padding: 50px 0;
   color: #999999;
 }
@@ -2536,7 +2545,11 @@ fieldset[disabled] .btn-template-primary.active {
 #footer h4,
 #footer h5,
 #footer h6 {
+<<<<<<< HEAD
   color: #2f2f2f;
+=======
+  color: #eeeeee;
+>>>>>>> 86ecd0b (init)
 }
 #footer h4 {
   font-size: 14px;
@@ -2622,7 +2635,11 @@ fieldset[disabled] .btn-template-primary.active {
   color: var(--primary-accent);
 }
 #copyright {
+<<<<<<< HEAD
   background: #18315C;
+=======
+  background: #333;
+>>>>>>> 86ecd0b (init)
   color: #ccc;
   padding: 50px 0;
   font-size: 12px;
